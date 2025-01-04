@@ -1,6 +1,6 @@
-package com.idle.server.common.logging;
+package com.idle.server.global.logging;
 
-import com.idle.server.common.exception.IdleException;
+import com.idle.server.global.exception.IdleException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 

@@ -1,4 +1,4 @@
-package com.idle.server.common.exception;
+package com.idle.server.global.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

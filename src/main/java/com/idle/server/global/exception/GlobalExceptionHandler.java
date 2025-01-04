@@ -1,6 +1,6 @@
-package com.idle.server.common.exception;
+package com.idle.server.global.exception;
 
-import com.idle.server.common.logging.LoggingUtils;
+import com.idle.server.global.logging.LoggingUtils;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
